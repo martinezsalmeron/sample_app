@@ -1,0 +1,8 @@
+#Lanzar el servidor: rails server o rails s
+
+#commit to git: git commit -m "Nombre del Commit"
+#Subir a github: "git push origin master" o "git push"
+
+#tests
+# to run tests: rspec spec/
+#servidor para tests: spork
